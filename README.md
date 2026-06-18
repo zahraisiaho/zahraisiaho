@@ -3,11 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Zahra 👋
 
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
+I am a Computer Science student passionate about building innovative technology that solves real-world problems. My interests span cybersecurity, artificial intelligence, cloud computing, and software engineering, and I enjoy creating secure, scalable, and intelligent systems that improve people's lives. 
 
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
+- 🔭 **Current Focus:** Currently working on a software development project while expanding my skills in cybersecurity, cloud technologies, and AI. I'm focused on building practical applications, strengthening my technical foundation, and growing a portfolio that reflects my interests in intelligent and secure systems.
 - 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
 - ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
 
